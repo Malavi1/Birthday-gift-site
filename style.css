@@ -44,7 +44,7 @@ body{
     border: 6px solid black;
     border-radius: 10px;
     margin: auto;
-    background-image: url("./images/giftcover.jpg");
+    background-image: url("images/giftcover.jpg");
     background-size: cover;
     
 }
@@ -57,22 +57,22 @@ body{
     margin-bottom: 0px;
 }
 #gift-img-happy:hover{
-    background-image: url("./images/happy.png");
+    background-image: url("images/happy.png");
 }
 #gift-img-feel:hover{
-    background-image: url("./images/milk.jpg");
+    background-image: url("images/milk.jpg");
 }
 #gift-img-badass:hover{
-    background-image: url("./images/badass.jpg");
+    background-image: url("images/badass.jpg");
     background-position: center;
 }
 #gift-img-one-word:hover{
-    background-image: url("./images/oneword.jpg");
+    background-image: url("images/oneword.jpg");
     background-position: center;
 
 }
 #gift-img-cheer:hover{
-    background-image: url("./images/one-special-gift-crop.jpg");
+    background-image: url("images/one-special-gift-crop.jpg");
     background-size: cover;
     padding-left: 40px;
     background-repeat: no-repeat;
